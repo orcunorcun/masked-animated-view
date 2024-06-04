@@ -1,0 +1,10 @@
+{
+  "name": "masked-animated-view-example",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.66.3",
+    "masked-animated-view": "../"
+  }
+}
