@@ -2,6 +2,8 @@
 
 A React Native component for creating masked animations.
 
+<img src="https://github.com/orcunorcun/masked-animated-view/assets/23243922/a0c17232-1544-4518-9f8e-d478142cee4f" width="250"/>
+
 ## Installation
 
 To install the package, use npm or yarn:
