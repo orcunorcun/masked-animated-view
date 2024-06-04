@@ -1,0 +1,38 @@
+{
+  "name": "masked-animated-view",
+  "version": "1.0.2",
+  "description": "A React Native component for creating masked animations.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orcunorcun/masked-animated-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "animation",
+    "mask",
+    "component"
+  ],
+  "author": "Orcun Toy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orcunorcun/masked-animated-view/issues"
+  },
+  "homepage": "https://github.com/orcunorcun/masked-animated-view#readme",
+  "dependencies": {
+    "@react-native-masked-view/masked-view": "0.3.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.24.6",
+    "@babel/core": "7.24.6",
+    "@babel/preset-env": "7.24.6",
+    "@babel/preset-react": "7.24.6"
+  }
+}
